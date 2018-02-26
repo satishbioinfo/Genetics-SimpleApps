@@ -1,4 +1,4 @@
-# Genomics-SimpleApps
+# GData_Decode-Simple Apps
 Simple Genomics Data Analysis Applications
 
 This repository consits of tools that can be used to perform simple data anlysis such as collecting information about a gene, variant as well as complicated downstream variant analysis.
